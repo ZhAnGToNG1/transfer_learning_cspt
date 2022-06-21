@@ -21,7 +21,7 @@ The pre-trained models basde on ViT-B are released in [Model Zoo](https://pan.ba
 
 ### Updates🌟 :
 * May 7, 2022: All pretrained models of various remote sensing downstream tasks are released publicly.
-* June 8, 2022: Update the code about pre-training and fine-tuning.
+* June 8, 2022: The code about pre-training and fine-tuning is coming soon.
 
 
 ### Installation🚀:
@@ -32,5 +32,3 @@ Please refer to [get_started.md](get_started.md) for the basic usage.
 
 ### Acknowledgement
 The code is built using the [MAE](https://github.com/facebookresearch/mae), [MMdetection](https://github.com/open-mmlab/mmdetection) and [BEiT](https://github.com/microsoft/unilm/tree/master/beit) repository.
-
-### Citation
