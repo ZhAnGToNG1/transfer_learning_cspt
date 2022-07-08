@@ -7,7 +7,7 @@
 
 
 ### Pretrained models:
-The pre-trained models basde on ViT-B are released in [Model Zoo](https://pan.baidu.com/s/1bhxdjjrVk0jWMs7dnXVQWQ) (code:dspt).
+The pre-trained models based on ViT-B are released in [Model Zoo](https://pan.baidu.com/s/1bhxdjjrVk0jWMs7dnXVQWQ) (code:dspt).
 
 
 
