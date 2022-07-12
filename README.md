@@ -25,3 +25,13 @@ Please refer to [get_started.md](get_started.md) for the basic usage.
 
 ### Acknowledgement
 The code is built using the [MAE](https://github.com/facebookresearch/mae), [MMdetection](https://github.com/open-mmlab/mmdetection) and [BEiT](https://github.com/microsoft/unilm/tree/master/beit) repository.
+
+### Citation
+```bash
+@article{consecutivepretraining2022,
+  title={Consecutive Pretraining: A Knowledge Transfer Learning Strategy with Relevant Unlabeled Data For Remote Sensing Domain},
+  author={Tong Zhang and Peng Gao and Hao Dong and Yin Zhuang and Guanqun Wang and Wei Zhang and He Chen},
+  journal={arXiv preprint arXiv:2207.03860},
+  year={2022}
+}
+```
