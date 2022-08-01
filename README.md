@@ -14,7 +14,7 @@ The pre-trained models based on ViT-B are released in [Model Zoo](https://pan.ba
 
 ### Updates🌟 :
 * May 7, 2022: All pretrained models of various remote sensing downstream tasks are released publicly.
-* June 21, 2022: The code about pre-training and fine-tuning is coming soon.
+* August 1, 2022: Update the code about pre-training and fine-tuning.
 
 
 ### Installation🚀:
