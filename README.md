@@ -1,7 +1,7 @@
 # Consecutive Pretraining: A Knowledge Transfer Learning Strategy with Unlabelled Data for Remote Sensing Domain Promotion
 
 
-### This repository cotains PyTorch implementation and pretrained models of CSPT. 
+### This repository contains PyTorch implementation and pretrained models of CSPT. 
 ### Give a star! ⭐️ if this project helped you.
 
 
