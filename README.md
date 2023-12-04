@@ -28,10 +28,14 @@ The code is built using the [MAE](https://github.com/facebookresearch/mae), [MMd
 
 ### Citation
 ```bash
-@article{consecutivepretraining2022,
-  title={Consecutive Pretraining: A Knowledge Transfer Learning Strategy with Relevant Unlabeled Data For Remote Sensing Domain},
-  author={Tong Zhang and Peng Gao and Hao Dong and Yin Zhuang and Guanqun Wang and Wei Zhang and He Chen},
-  journal={arXiv preprint arXiv:2207.03860},
-  year={2022}
+@article{zhang2022consecutive,
+  title={Consecutive pre-training: A knowledge transfer learning strategy with relevant unlabeled data for remote sensing domain},
+  author={Zhang, Tong and Gao, Peng and Dong, Hao and Zhuang, Yin and Wang, Guanqun and Zhang, Wei and Chen, He},
+  journal={Remote Sensing},
+  volume={14},
+  number={22},
+  pages={5675},
+  year={2022},
+  publisher={MDPI}
 }
 ```
